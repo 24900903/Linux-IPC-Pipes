@@ -82,7 +82,7 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 }
 ```
 
-<img width="1157" height="156" alt="image" src="https://github.com/user-attachments/assets/82f96d14-0233-47fa-80d1-0a1a63fe59d4" />
+<img width="970" height="350" alt="image" src="https://github.com/user-attachments/assets/e09f026a-7626-464d-9155-d3bd76ff8cdf" />
 
 
 ## OUTPUT
